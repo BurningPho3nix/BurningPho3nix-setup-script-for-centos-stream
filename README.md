@@ -14,12 +14,13 @@ start page options:
 ______________________________________________________
 
 Repo Setup gives you the options to install:
+- EPEL (repo)
 - RPM Fusion free (repo)
 - RPM Fusion nonfree (repo)
 - Group core (to enable downloads through software centers)
 - RPM Fusion free tainted (repo)
 - RPM Fusion nonfree tainted (repo)
-- Flathub (repo) (not needed on F38 and later, if third party repos are enabled)
+- Flathub (repo)
 - all of the above
 
 ______________________________________________________
@@ -31,9 +32,7 @@ DNF modification tool options:
 ______________________________________________________
 
 Codec Setup options:
-- additional general multimedia codecs
 - libdvdcss/DVD compatibility
-- AMD freeworld driver
 - Nvidia vaapi driver
 - Intel media driver
 
