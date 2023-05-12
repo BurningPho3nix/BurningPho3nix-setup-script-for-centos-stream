@@ -1,4 +1,4 @@
-# BurningPho3nix setup script for CentOS Stream
+# BurningPho3nix setup script for CentOS Stream (optimized for CentOS Stream 9)
 
 This project helps you installing RPM-Fusion, making dnf.conf changes and installing applications quickly on CentOS Stream.
 
