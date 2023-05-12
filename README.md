@@ -5,9 +5,10 @@ This project helps you installing RPM-Fusion, making dnf.conf changes and instal
 ______________________________________________________
 
 start page options:
-- open repo-setup.sh
+- open repo setup
 - open package-installer
-- open dnf-mod.sh
+- open DNF configuration
+- open codec setup
 - system updates (dnf update & flatpak update)
 - reboot system
 ______________________________________________________
