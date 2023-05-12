@@ -1,10 +1,6 @@
-# BurningPho3nix setup script for Fedora (optimized for Fedora 38)
+# BurningPho3nix setup script for CentOS Stream
 
-This project helps you installing RPM-Fusion, making dnf.conf changes and installing applications quickly on Fedora.
-
-______________________________________________________
-
-Please read the README.md on older versions, if you use those, due to differences in the process
+This project helps you installing RPM-Fusion, making dnf.conf changes and installing applications quickly on CentOS Stream.
 
 ______________________________________________________
 
